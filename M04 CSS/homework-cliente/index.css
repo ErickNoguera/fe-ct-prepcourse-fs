@@ -1,0 +1,35 @@
+body{
+    width: 1920px;
+    height: 1150px;
+    background-color: black;
+
+    color: blanchedalmond;
+    border: 2px solid;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+#caja-rosada {
+    width: 781px;
+    height: 55px;
+    flex-shrink: 0;
+    background-color: #fd1ebd;
+    margin-top: 71px;
+    margin-bottom: 48px;
+}
+
+#caja-amarilla{
+    width: 643px;
+    height: 55px;
+    flex-shrink: 0;
+    background-color: #fffd38;
+}
+
+#contenedor-practice-autor h1 {
+    color: rgba(255, 255, 255, 0.3);
+    
+}
