@@ -3,7 +3,7 @@ function esVerdaderoYFalso(booleano1, booleano2) {
   // Retorna true si ambos son verdaderos, caso contrario, retorna false.
   // Tu código:
 
-  if (booleano1 === true && booleano2 === true) return true;
+if (booleano1 === true && booleano2 === true) return true;
   else return false
 
 }
